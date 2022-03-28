@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "parserforte",
+  "private_key_id": "f36d2d0eb6016f93ba150fc23be9163b94100ccd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDNWQGXWvg6t/+N\nZXS7/pTMFncXWnVAktET6i9Pv91oVRsnPwilUh5cvVukAeD2ByhIM1t0y9m5/du5\n4P6OrhqXgWNp0Wi/qcaRww27KKCuIUPJkz3GckrvT8yu4Wm1K2HbiYdQhKc/Qbo4\nQB2nGthVPMhqwWH60fpiTuTTUxHSvyse+PgTaiBboYkroqk+to2I9U7AaPCUqWr+\n0BBd7CKs5aY51mrzQLxlaZrN5Y61KU+xFjINBcqqTvBe7Y/zLTGvGPVElEYsSdXe\noXZYu5uPR4WqQt8MvdkI420AHjj5tqk2s7dkWDs0C8aJl4cbEMQpA6g5/LF/G6lW\n8cQezIBhAgMBAAECggEAYvJfdOoNsGWWyzA29psuYcT1b5hT5WCZREpUr83Yxvwz\nUE7sQJT4MmG/9aA+IO7D9z5f9ECB0kBDjyaeImw8PgLHv2Z7XddV6kidpjBmdGFt\nA4Vif+v0tamzDBVr1TNpPNrhC+hPmoh2TcJ/R1UFJtVaES7LootpZdN0KWveq7g6\nayUDE0tcC9Am592YORRsTvmC32TXiP3I9Vxi4Jfq5+m1sz33z118MjyaenOGYGI+\n7YEKkJfrOs/Zut48fOAii2A8rk52bJeWVV5a5Ui7V1w8wY2BMz2ia3BKqxSiFlL/\nApw6QzhQ1FZJ3YLH3REMLbUdI96QSzl8YcpAlCdEnQKBgQD2bDsyanKBRuWjJGNN\n4mjCNuC9Guhqu4cK8L7ql/cSCAd42pUidRoAc+6dE5qpimPpGjjgomG85CeMRZ80\n67t5MSWPp82828w5aHz9GUCvjNun6yA/ql/RwXivExeEIgf2zX01Y2cYZQQ+TYGZ\nbGdN51TEc5Kv6uuVOvD8LktnqwKBgQDVVBnJ+GSKJfFbKURdttFKAhftI5Inx6lu\ntemVzJ1QhpveMd5ZYmRIjjEX2uGbfIeeDpuvnmwWP2eI2T1N7YWvF505BXra17OR\n1YL8qOTc2WnIJvaQn8S32XHHETIVcRV8j8ph35YjbXkWqYEHz65bOyFwICxgyPz8\nSjCK3FP8IwKBgFZN97mjkHD4jKrDrsfzWO9UWwfAKdBf118cjDELgivdhghsvbiw\nvKeV8ucum4dvgah9V5hNJuAKJFO7epQFT8aVUOtsQOE5NeCRWN0oAAC7256G+edy\nW1bSZNskW6MabCGjPIv7QXtIveC4MoCyd8fQEl8vfxt/sny0hPw9lok7AoGACuNl\nAZMFBqwTGpULoUDgg8eBkx/6qL8fHcB5MKUl7mNAd2HSOHu2JKHlTZNlans7rMyQ\nE7GhUK1hynFUGLMj3KD27F8kOyFBUBM2wVCZhdAu/wFGGnGdJ8kYbpGpHcEM2LO6\nH666ygofYRG7vTtTaeKlvURXH4WCrBnZSm0eeEMCgYBA667Dcrch29mSrSVyMgMO\npae+4hG80rtXy8neuQVPzhBjhZy53gl3tO2oDSDAShYgdGTNW6iXx213RFbCQDN1\nPIQcW7hIMvFwl4B98nWLQmvB0r03NzHIvZfgCnDf3FPFH+7U7bJOgDddSsQJhb+M\nMprHRxCiPSppa81cmpniAg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nasiba@parserforte.iam.gserviceaccount.com",
+  "client_id": "108900305561424910183",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nasiba%40parserforte.iam.gserviceaccount.com"
+}
